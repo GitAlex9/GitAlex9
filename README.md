@@ -58,7 +58,7 @@
   <br>
   <p>Demo game developed as part of the requirements for completing the 1st semester. (01/2024)</p>
 </div>
-<h2></h2>
+<h2><br></h2>
 <a href="https://www.youtube.com/watch?v=1D_Y15rjCgo&t=6s" target="_blank">
   <img align="left" src="https://github.com/GitAlex9/GitAlex9/blob/main/Assets/Pincha.PNG?raw=true" width="400" alt="Placeholder">
 </a>
