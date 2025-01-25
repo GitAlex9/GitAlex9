@@ -42,5 +42,36 @@
   </p>
 </div>
 
+----
+## Produções acadêmicas / Academic production
+
+<a href="https://www.youtube.com/watch?v=ItZx8A8yeic" target="_blank">
+  <img align="right" src="https://github.com/GitAlex9/GitAlex9/blob/main/Assets/Stone_Teller.PNG?raw=true" width="400" alt="Placeholder">
+</a>
+<div align="left">
+  <p>Jogo demo desenvolvido como parte dos requisitos para a conclusão do 1º semestre. (01/2024)</p>
+</div>
+<div align="center">
+  <h3>&#x1F3AE; STONE TELLER &#x1F3AE;</h3>
+</div>
+<div align="right">
+  <br>
+  <p>Demo game developed as part of the requirements for completing the 1st semester. (01/2024)</p>
+</div>
+<h2></h2>
+<a href="https://www.youtube.com/watch?v=1D_Y15rjCgo&t=6s" target="_blank">
+  <img align="left" src="https://github.com/GitAlex9/GitAlex9/blob/main/Assets/Pincha.PNG?raw=true" width="400" alt="Placeholder">
+</a>
+<div align="right">
+  <p>Jogo demo desenvolvido como parte dos requisitos para a conclusão do 2º semestre. (02/2024)</p>
+</div>
+<div align="center">
+  <h3>&#x1F3AE; PINCHA &#x1F3AE;</h3>
+</div>
+<div align="left">
+  <br>
+  <p>Demo game developed as part of the requirements for completing the 2nd semester. (02/2024)</p>
+</div>
+
 
 
